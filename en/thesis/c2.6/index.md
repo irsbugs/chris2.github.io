@@ -44,7 +44,7 @@ Table 2-1 lists three models that have been proposed for theorising the complexi
 
 *Table 2-1 Multi-Domain models of complexly related educational Domains*
 
-![t2-1](/images/t2.1.png) 
+![t2-1](/images/t2-1.png) 
 
 <sub>1 Volatile, Uncertain, Complex, and Ambiguous </sub>
 
