@@ -1155,9 +1155,10 @@ body {
     font-size: 105%;
 }
 
-/* Add indentation to text block quotes */
+/* Add indentation to text block quotes. Add italics, lm was 20px*/
 blockquote p, blockquote {
-  margin-left: 20px;
+  font-style: italic;    
+  margin-left: 15px;
   font-size: 1.2rem;
   font-weight: 300;
   line-height: 1.2;
@@ -1165,9 +1166,9 @@ blockquote p, blockquote {
   color: #004400 !important;  
 }
 
-/* Increase the font size and adjust color for quotes in italic 44ff44*/
+/* Increase the font size and adjust color for quotes in italic 44ff44 f-s was 110*/
 em {
-    font-size: 110%;
+    font-size: 115%;
     font-family: Georgia, Times, 'Times New Roman', serif;    
     color: #004400 !important;
 }
