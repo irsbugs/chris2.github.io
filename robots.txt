@@ -1,0 +1,4 @@
+Sitemap: https://shiichan.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: shiichan.github.io
